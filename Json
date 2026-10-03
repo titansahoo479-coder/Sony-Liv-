@@ -6,7 +6,7 @@
   "latest_version": "1.1",
   "force_update": false,
 
-  "logo_url": "",
+  "logo_url": "https://i.ibb.co/8gnJSp08/Picsart-26-06-14-18-10-47-061-png.jpg",
 
   "headline": "New Update Available",
   "headline_color": "#000000",
@@ -25,5 +25,5 @@
   "update_btn_bg": "#000000",
   "update_btn_text_color": "#FFFFFF",
 
-  "update_url": "https://t.me/your_telegram_channel"
+  "update_url": "https://yomostore.free.nf"
 }
