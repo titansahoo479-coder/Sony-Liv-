@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "package": "com.gulasur.app",
+  "version": "1.0.5",
+  "min_version": "1.0.5",
+  "force_update": true,
+
+  "logo_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/logo.png",
+
+  "headline": "New Update Available",
+
+  "description": "This Mod Application Has Been <font color='#FF0000'><b>Outdated Or Expired</b></font> So Now You Can't Use It Anymore. If You Want To Continue This Application Then Please Update It. Go To Our <font color='#1976D2'><b>Telegram Channel</b></font> And Download New Version.",
+
+  "exit_text": "EXIT",
+  "update_text": "UPDATE NOW",
+
+  "update_button_color": "#000000",
+
+  "update_url": "https://t.me/your_telegram_channel"
+}
