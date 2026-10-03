@@ -1,9 +1,9 @@
 {
-  "enabled": false,
-  "package": "com.gulasur.app",
+  "enabled": true,
+  "package": "com.sonyliv",
 
-  "current_version": "1.0",
-  "latest_version": "1.1.099",
+  "current_version": "6.34.4",
+  "latest_version": "999.999",
   "force_update": false,
 
   "logo_url": "https://imgh.in/host/x25jqi",
