@@ -3,7 +3,7 @@
   "package": "com.gulasur.app",
 
   "current_version": "1.0",
-  "latest_version": "1.0.1",
+  "latest_version": "1.1",
   "force_update": false,
 
   "logo_url": "",
@@ -11,7 +11,7 @@
   "headline": "New Update Available",
   "headline_color": "#000000",
 
-  "description": "This Mod Application Has Been <font color='#FF0000'><b>Outdated Or Expired</b></font> So Now You Can't Use It Anymore. If You Want To Continue This Application Then Please Update It. Go To Our <font color='#1976D2'><b>Telegram Channel</b></font> And Download New Version.",
+  "description": "This Mod Application Has Been <font color='#D32F2F'><b>Outdated Or Expired</b></font> So Now You Can't Use It Anymore. If You Want To Continue This Application Then Please Update It. Go To Our <font color='#0D47A1'><b>Telegram Channel</b></font> And Download New Version.",
   "description_color": "#333333",
 
   "card_bg_color": "#FFFFFF",
