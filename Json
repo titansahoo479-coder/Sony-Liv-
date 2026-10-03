@@ -2,10 +2,10 @@
   "enabled": true,
   "package": "com.gulasur.app",
   "version": "1.0",
-  "min_version": "1.0.5",
+  "min_version": "99.9.9",
   "force_update": true,
 
-  "logo_url": "https://i.ibb.co/8gnJSp08/Picsart-26-06-14-18-10-47-061-png.jpg",
+  "logo_url": "",
 
   "headline": "New Update Available",
 
@@ -16,5 +16,5 @@
 
   "update_button_color": "#000000",
 
-  "update_url": "https://t.me/your_telegram_channel"
+  "update_url": "https://t.me/your_channel"
 }
