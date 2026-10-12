@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "package": "com.sonyliv",
 
   "current_version": "6.34.4",
@@ -25,5 +25,5 @@
   "update_btn_bg": "#000000",
   "update_btn_text_color": "#FFFFFF",
 
-  "update_url": "https://yomostore.free.nf"
+  "update_url": "https://yomostore.free.nf/contact.html"
 }
